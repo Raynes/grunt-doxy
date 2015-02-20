@@ -1,7 +1,7 @@
 {
   "name": "grunt-doxy",
   "description": "It'll generate dox for your project and wash yer dishes too!",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/Raynes/grunt-doxy",
   "author": {
     "name": "Anthony Grimes",
