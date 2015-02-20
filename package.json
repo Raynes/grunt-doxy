@@ -1,0 +1,42 @@
+{
+  "name": "grunt-doxy",
+  "description": "It'll generate dox for your project and wash yer dishes too!",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Raynes/grunt-doxy",
+  "author": {
+    "name": "Anthony Grimes",
+    "email": "i@raynes.me",
+    "url": "b.raynes.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Raynes/grunt-doxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raynes/grunt-doxy/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Raynes/grunt-doxy/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "dox": "^0.6.1",
+    "grunt": "~0.4.5",
+    "grunt-babel": "^4.0.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "doxme": "^1.5.0",
+    "lodash": "^3.2.0"
+  }
+}
