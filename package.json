@@ -1,7 +1,7 @@
 {
   "name": "grunt-doxy",
   "description": "It'll generate dox for your project and wash yer dishes too!",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "homepage": "https://github.com/Raynes/grunt-doxy",
   "author": {
     "name": "Anthony Grimes",
@@ -27,7 +27,8 @@
   "devDependencies": {
     "dox": "^0.6.1",
     "grunt": "~0.4.5",
-    "grunt-babel": "^4.0.0"
+    "grunt-babel": "^4.0.0",
+    "grunt-release": "^0.11.0"
   },
   "peerDependencies": {
     "grunt": "~0.4.5"
