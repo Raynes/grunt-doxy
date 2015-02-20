@@ -18,6 +18,7 @@ install and use Grunt plugins. Once you're familiar with that process, you may
 install this plugin with this command:
 
 ```shell
+npm install dox --save-dev
 npm install grunt-doxy --save-dev
 ```
 
