@@ -45,6 +45,12 @@ module.exports = function(grunt) {
         ]
       },
     },
+
+    release: {
+      options: {
+        beforeRelease: ['babel']
+      }
+    }
   });
 
   grunt.loadTasks('tasks');
