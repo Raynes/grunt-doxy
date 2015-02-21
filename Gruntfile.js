@@ -48,7 +48,7 @@ module.exports = function(grunt) {
 
     release: {
       options: {
-        beforeRelease: ['babel']
+        beforeReleaseTasks: ['babel']
       }
     }
   });
